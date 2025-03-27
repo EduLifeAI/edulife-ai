@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447206731464",
+    "project_id": "edulife-ai-fresh",
+    "storage_bucket": "edulife-ai-fresh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447206731464:android:7622d9749ad1b582afbffd",
+        "android_client_info": {
+          "package_name": "com.example.edulife_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCGkT-JqqABNCFzzjVmXeV8Kxz-NzPrhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
